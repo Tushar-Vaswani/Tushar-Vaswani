@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tushar-Vaswani
 - 👀 I’m interested in Ethical Hacking and Networking
 - 🌱 I’m currently learning Docker, Kubernetes, Scripting, Ansible, GNS3
-- 💞️ I’m looking to collaborate on various topics which involve BGP nad SIP protocols
+- 💞️ I’m looking to collaborate on various topics which involve BGP and SIP protocols
 - 📫 Contact me at tushar.v@netsanchar.com
 
 <!---
